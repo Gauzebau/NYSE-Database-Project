@@ -18,12 +18,6 @@ DOCTYPE html>
      <a href= https://api.udacity.com/api/review/v1/submissions/3858455/archive ></a>
 
 
-  
-
-
-        <img src="">
-
-
 
 </body>
 </html>
