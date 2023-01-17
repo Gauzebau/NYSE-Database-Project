@@ -7,7 +7,7 @@ DOCTYPE html>
 </head>
 <body>
   
-  <h2>CAnalyze NYSE Data</h2>
+  <h2>Analyze NYSE Data</h2>
   
   <p>For the final project, you will conduct three Tasks:
 
